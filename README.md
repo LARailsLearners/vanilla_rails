@@ -1,4 +1,4 @@
-Vanilla Rails App
+## Vanilla Rails App
 
 We have created this app to build a gem that will have all of these things pre-installed
 
